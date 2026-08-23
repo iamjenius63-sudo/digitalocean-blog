@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lifetime-coupon-code-5yqp7.ondigitalocean.app/sitemap.xml
